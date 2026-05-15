@@ -1,3 +1,5 @@
 {
+"-F": "{#super_l(v)}",
+"-R": "{#super_l(c)}",
 "-PB": "{#control_l(up)}"
 }

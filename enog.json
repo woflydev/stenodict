@@ -1,5 +1,6 @@
 {
-"SKWR": "{PLOVER:TOGGLE_DICT:!enog-commands.json}",
+"STKPWR": "{PLOVER:TOGGLE_DICT:!enog-commands.json}",
+"SKWR": "{PLOVER:TOGGLE_DICT:!enog-symbols.json}",
 "SKA": "{#escape}",
 "PWREUS/PWEPB": "brisbane",
 "PHE": "me",

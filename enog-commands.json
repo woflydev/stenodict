@@ -1,5 +1,12 @@
 {
-"-F": "{#super_l(v)}",
-"-R": "{#super_l(c)}",
-"-PB": "{#control_l(up)}"
+"#A": "{#super_l(q)}",
+"SA": "{#super_l(a)}",
+"TA": "{#super_l(w)}",
+"KA": "{#super_l(z)}",
+"PA": "{#super_l(r)}",
+"WA": "{#super_l(x)}",
+"HA": "{#super_l(t)}",
+"RA": "{#super_l(c)}",
+"A*": "{#super_l(v)}",
+"-DZ": "{#control_l(up)}"
 }
